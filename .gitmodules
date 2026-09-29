@@ -1,0 +1,6 @@
+[submodule "markitdown"]
+	path = markitdown
+	url = https://github.com/microsoft/markitdown
+[submodule "reverse-skill"]
+	path = reverse-skill
+	url = https://github.com/zhaoxuya520/reverse-skill
