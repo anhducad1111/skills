@@ -6,6 +6,7 @@ Curated coding skills for [skills.sh](https://skills.sh) - plug them into Claude
 
 | Skill | Description |
 |---|---|
+| [fast-code](./fast-code/SKILL.md) | High-speed coding protocol focusing on rapid implementation and minimal overhead |
 | [rule-recovery](./rule-recovery/SKILL.md) | Autonomous protocol to restore engineering rule compliance and decouple conversational language from technical deliverables |
 | [wpf-chart-scottplot](./wpf-chart-scottplot/SKILL.md) | High-performance WPF charting with ScottPlot - portable, real-time, and production-ready patterns |
 | [test-case-wpf-automation](./test-case-wpf-automation/SKILL.md) | WPF test case automation patterns - robust, maintainable, and scalable UI testing with best practices |
@@ -15,6 +16,7 @@ Curated coding skills for [skills.sh](https://skills.sh) - plug them into Claude
 Install a specific skill:
 
 ```bash
+npx skills add anhducad1111/skills --skill fast-code
 npx skills add anhducad1111/skills --skill rule-recovery
 npx skills add anhducad1111/skills --skill wpf-chart-scottplot
 npx skills add anhducad1111/skills --skill test-case-wpf-automation
