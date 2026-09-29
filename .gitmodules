@@ -13,3 +13,9 @@
 [submodule "aider"]
 	path = aider
 	url = https://github.com/paul-gauthier/aider
+[submodule "vercel-skills"]
+	path = vercel-skills
+	url = https://github.com/vercel-labs/skills
+[submodule "vercel-agent-browser"]
+	path = vercel-agent-browser
+	url = https://github.com/vercel-labs/agent-browser
