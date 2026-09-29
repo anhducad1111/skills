@@ -7,3 +7,9 @@
 [submodule "caveman"]
 	path = caveman
 	url = https://github.com/juliusbrussee/caveman
+[submodule "repomix"]
+	path = repomix
+	url = https://github.com/yamadashy/repomix
+[submodule "aider"]
+	path = aider
+	url = https://github.com/paul-gauthier/aider
